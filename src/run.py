@@ -1,4 +1,4 @@
-"""CLI interface for ESM2 Ridge baseline."""
+"""CLI interface for PolyXpert."""
 
 from abdev_core import create_cli_app
 from .model import PolyXpertModel
